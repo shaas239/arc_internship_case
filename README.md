@@ -6,7 +6,11 @@ Your first task is to explore the fictive datasets (approx. 1 hour), so that you
 
 Please send us:
 
-A csv with data compiled from all 4 data sources Please send us your code so that we can execute and evaluate your code in one of the following ways: python, jupyter notebook, BigQuery(SQL), or sqlite3(if using SQL within python/jupyter) or R. Please make sure any packages used are defined, and open source so that we can replicate your code. Make sure to include a recommendation to the client in your file/notebook
+--A csv with data compiled from all 4 data sources 
+
+--Please send us your code so that we can execute and evaluate your code in one of the following ways: python, jupyter notebook, BigQuery(SQL), or sqlite3(if using SQL within python/jupyter) or R. 
+
+--Please make sure any packages used are defined, and open source so that we can replicate your code. Make sure to include a recommendation to the client in your file/notebook
 
 Good to know:
 
